@@ -1,0 +1,15 @@
+required libraries to use our repo :-
+
+numpy
+
+keras
+
+scikit-learn
+
+opencv
+
+scipy
+
+moviepy
+
+
